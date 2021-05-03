@@ -5,29 +5,18 @@ aliases: ["about-me", "readme"]
 draft: true
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# Who
+passionate software engineer who graduated from electrical and electronics engineer ( metu, turkey )
 
-Hugo makes use of a variety of open source projects including:
+embedded software engineer with special interest in mobile applications and games that developed using javascript
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+# Why
+my curiosity leads me to interesting parts of the web. i start the search for new javascript frameworks and find myself in a wikipedia article which explains french revolution. remembering all of them is a real pain. i needed a place to store them so that i can look back and remember these valuable things.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+# Where
+living in [ankara](https://goo.gl/maps/NDMDhcXCgq82) but my hometown is [kastamonu](https://goo.gl/maps/A6qn6njcQ5B2).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-<p><strong>who is asil?</strong> <br /> passionate software engineer who graduated from electrical and electronics engineer ( metu, turkey )</p>
-<p><strong>where is asil?</strong> <br /> living in <a href="https://goo.gl/maps/NDMDhcXCgq82" target="_blank">ankara</a> but my hometown is <a href="https://goo.gl/maps/A6qn6njcQ5B2" target="_blank">kastamonu</a>.</p>
-<p><strong>what does asil do?</strong> <br /> embedded software engineer with special interest in mobile applications and games that developed using javascript</p>
-<p><strong>why did asil create this blog?</strong> <br /> my curiosity leads me to interesting parts of the web. i start the search for new javascript frameworks and find myself in a wikipedia article which explains french revolution. remembering all of them is a real pain. i needed a place to store them so that i can look back and remember these valuable things.</p>
-<p><strong>hardware that i use</strong></p>
+# Main hardware
 <ul>
 <li><a href="http://www.gsmarena.com/samsung_galaxy_s7-7821.php" target="_blank">samsung galaxy s7</a> (will buy <a href="http://www.gsmarena.com/xiaomi_mi_6-8507.php" target="_blank">this</a> - used <a href="http://www.gsmarena.com/lg_g2-5543.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/samsung_galaxy_ace_s5830-3724.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/samsung_i7500_galaxy-2791.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/sony_ericsson_w300-1486.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/nokia_6060-1196.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/siemens_c45-278.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/nokia_3310-192.php" target="_blank">this</a> and <a href="http://www.gsmarena.com/nokia_5110-7.php" target="_blank">this</a>)</li>
 <li><a href="https://www.amazon.com/Pebble-Technology-Corp-501-00020-Smartwatch/dp/B0106IS5XY" target="_blank">pebble time</a> (will buy <a href="https://www.fossil.com/us/en/products/townsman-automatic-stainless-steel-watch-sku-me3044p.html" target="_blank">this</a> - used <a href="https://www.amazon.co.uk/Fossil-ME1121-Mens-Watch/dp/B0088X1QFY" target="_blank">this</a>)</li>
@@ -37,7 +26,8 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 <li><a href="http://www.logitech.com/en-us/product/corded-mouse-m500" target="_blank">logitech m500</a></li>
 <li><a href="http://gaming.logitech.com/en-roeu/product/g105-gaming-keyboard" target="_blank">logitech g105</a> (will buy <a href="http://www.wasdkeyboards.com/" target="_blank">this</a>)</li>
 </ul>
-<p><strong>software that i use</strong></p>
+
+# Main software
 <ul>
 <li><strong>in phone</strong></li>
 <ul>
@@ -86,3 +76,5 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 <li><a href="https://rg3.github.io/youtube-dl/download.html" target="_blank">youtube-dl</a> &amp; <a href="https://ffmpeg.zeranoe.com/builds/" target="_blank">ffmpeg</a> ( downloading videos )</li>
 </ul>
 </ul>
+
+[Quotes](/quotes)
