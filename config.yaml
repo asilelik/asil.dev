@@ -9,7 +9,7 @@ enableEmoji: true
 enableRobotsTXT: true
 
 params:
-  title: ""
+  title: "Asil Barkın Elik"
   author: "Asil Barkın Elik"
   copyright: "1991-2021"
   description: curious and passionate polyglot programmer
@@ -22,6 +22,7 @@ params:
   postSectionName: "posts"
   doNotLoadAnimations: true
   enableMediumZoom: false
+  customCss: ['override-theme.css']
 
   socialIcons:
     - icon: "fab fa-linkedin"
@@ -49,7 +50,6 @@ markup:
 menu:
   main:
     - name: "Home"
-      pre: <i class='fa fa-heart'></i>
       identifier: "home"
       weight: 100
       url: "/"
