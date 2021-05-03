@@ -15,7 +15,6 @@ params:
   copyright: "1991-2021"
   description: curious and passionate polyglot programmer
   profilePicture: "images/profile.jpg"
-  keywords: ""
   favicon: "favicons/"
   # example ["css/custom.css"]
   customCss: []
@@ -33,7 +32,7 @@ params:
   # Read More links for truncated summaries
   # readMore: true
   # Rename post section
-  postSectionName: "Blog"
+  postSectionName: "posts"
   displayMode: "dark"
   disableThemeSwitcher: false # Theme switcher is enabled by default
   doNotLoadAnimations: true # Animations are loaded by default
@@ -53,7 +52,7 @@ params:
       url: "https://twitter.com/asilelik"
     - icon: "fas fa-download"
       title: "CV"
-      url: "https://asil.dev/files/cv.pdf"
+      url: "/files/Asil_Barkin_Elik_CV.pdf"
     - icon: "fas fa-envelope"
       title: "e-mail"
       url: "mailto:asilelik@gmail.com"
@@ -71,7 +70,7 @@ menu:
       weight: 200
       identifier: "posts"
       url: "/posts/"
-    - name: "About"
+    - name: "About Me"
       weight: 300
       identifier: "about"
       url: "/about/"
