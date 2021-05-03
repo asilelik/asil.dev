@@ -1,7 +1,5 @@
 baseURL: /
 theme: "anatole"
-languageCode: "en"
-DefaultContentLanguage: "en"
 googleAnalytics: "UA-72740909-2"
 pygmentsUseClasses: true
 pygmentsCodeFences: true
@@ -9,6 +7,7 @@ pygmentsCodefencesGuessSyntax: true
 summarylength: 10
 enableEmoji: true
 enableRobotsTXT: true
+
 params:
   title: ""
   author: "Asil Barkın Elik"
@@ -16,28 +15,12 @@ params:
   description: curious and passionate polyglot programmer
   profilePicture: "images/profile.jpg"
   favicon: "favicons/"
-  # example ["css/custom.css"]
-  customCss: []
-  # example ["js/custom.js"]
-  customJs: [] 
-  # If you prefer having a static page as your home page rather than a listing of the latest posts, then make sure you leave the mainSections parameter blank
-  # [params]
-  #   mainSections: []
-  #   Put any content into the _index.md file located in the content directory. If you want, you can also have some static text and the posts below. In such case, simply keep the mainSections: ["post"] and put any static content in the _index.md.
   mainSections: []
-  # images: ["images/site-feature-image.png"]
   singleDateFormat: "02 Jan 15:04"
   indexDateFormat: "02 Jan 15:04"
   listDateFormat: "02 Jan 15:04"
-  # Read More links for truncated summaries
-  # readMore: true
-  # Rename post section
   postSectionName: "posts"
-  displayMode: "dark"
-  disableThemeSwitcher: false # Theme switcher is enabled by default
-  doNotLoadAnimations: true # Animations are loaded by default
-  # for google analytics v4
-  # gtagId: "G-XXXXXXXXXX"
+  doNotLoadAnimations: true
   enableMediumZoom: false
 
   socialIcons:
@@ -56,13 +39,17 @@ params:
     - icon: "fas fa-envelope"
       title: "e-mail"
       url: "mailto:asilelik@gmail.com"
+
+# TODO: Remove this param once they all moved into Markdown
 markup:
   goldmark:
     renderer:
       unsafe: true
+
 menu:
   main:
     - name: "Home"
+      pre: <i class='fa fa-heart'></i>
       identifier: "home"
       weight: 100
       url: "/"
