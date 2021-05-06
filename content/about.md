@@ -77,4 +77,5 @@ living in [ankara](https://goo.gl/maps/NDMDhcXCgq82) but my hometown is [kastamo
 </ul>
 </ul>
 
+<!-- TODO: Add Spotify what i'm listening -->
 [Quotes](/quotes)
