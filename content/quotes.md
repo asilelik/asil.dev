@@ -1,7 +1,6 @@
 ---
 title: "Quotes"
 date: 2021-05-03T16:37:22+02:00
-draft: true
 ---
 This place is for quotes that I found around the internet or videos.
 They are not necessarily great nor appropriate quotes. The reason they are here is I found them interesting at the time.
