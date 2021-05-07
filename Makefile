@@ -21,5 +21,3 @@ else
 endif
 endif
 endif
-
-# TODO: Add what i read, what i watch 
