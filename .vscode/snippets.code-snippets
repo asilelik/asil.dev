@@ -1,0 +1,10 @@
+{
+	"Add link": {
+		"scope": "markdown,html",
+		"prefix": "addlink",
+		"body": [
+			"<a href='$1' target='_blank'>$2</a>$0",
+		],
+		"description": "Adds anchor link to open in new tab"
+	}
+}
