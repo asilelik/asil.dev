@@ -2,7 +2,6 @@
 title: "About Me"
 date: 2021-05-03T13:39:17+02:00
 aliases: ["about-me", "readme"]
-draft: true
 ---
 
 ![i have approximate knowledge of many things](/images/curiosity.gif 'curiosity')
