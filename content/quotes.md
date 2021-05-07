@@ -150,3 +150,5 @@ They are not necessarily great nor appropriate quotes. The reason they are here 
 > friendship is based on respect, loyalty and honesty. if any of these 3 are seriously broken, do not be afraid to move on. friendship is not based on being tenured.
 ***
 > now or never know
+***
+> a jack of all trades is a master of none, but oftentimes better than a master of one
