@@ -1,10 +1,10 @@
 baseURL: /
+# TODO: Remove theme and move without it
 theme: "anatole"
 googleAnalytics: "UA-72740909-2"
 pygmentsUseClasses: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
-summarylength: 10
 enableEmoji: true
 enableRobotsTXT: true
 
@@ -41,23 +41,19 @@ params:
       title: "e-mail"
       url: "mailto:asilelik@gmail.com"
 
-# TODO: Remove this param once they all moved into Markdown
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true # Used for anchors and cites
 
 menu:
   main:
     - name: "Home"
-      identifier: "home"
       weight: 100
       url: "/"
     - name: "Blog"
       weight: 200
-      identifier: "posts"
       url: "/posts/"
     - name: "About Me"
       weight: 300
-      identifier: "about"
       url: "/about/"
