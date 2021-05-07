@@ -13,7 +13,7 @@ software engineer @ <a href='https://www.speakap.com/' target='_blank'>speakap</
 - cd
 - sre
 ***
-software engineer @ <a href='https://www.havelsan.com.tr/en' target='_blank'>havelsan</a>
+software engineer @ <a href='https://www.antegrup.com.tr/en/home/' target='_blank'>ante</a>
 
 02/2019 - 05/2019
 
