@@ -1,10 +1,12 @@
 quotes_dir = content/quotes.md
 
+.PHONY: new
 new:
 ifdef postname
 	hugo new posts/$(postname).md
 endif
 
+.PHONY: quote
 quote:
 	echo "***" >> $(quotes_dir)
 ifdef quote
